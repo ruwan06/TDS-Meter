@@ -1,4 +1,4 @@
-**Arduino TDS Meter with Temperature Display**
+#Arduino TDS Meter with Temperature Display
 
 ## Overview
 This Arduino project measures both temperature using a Dallas Temperature sensor and Total Dissolved Solids (TDS) using an analog sensor. The values are displayed on a 16x2 I2C LCD.
